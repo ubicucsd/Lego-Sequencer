@@ -37,7 +37,7 @@ int countGreen = 0;
 int countYellow = 0;
 
 int maxCount = 0;
-String maxColor = "U";
+String maxColor = "A";
 String currSeq = "";
 
 void setup() {
@@ -151,7 +151,7 @@ void loop() {
     countRed = 0;
     countGreen = 0;
     countYellow = 0;
-    maxColor = "U";
+    maxColor = "A";
     maxCount = 0;
     next = millis();
     //Serial.println(timer);
