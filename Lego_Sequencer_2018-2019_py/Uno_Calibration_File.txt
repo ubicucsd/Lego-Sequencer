@@ -1,0 +1,5 @@
+	Red_lower	Red_upper	Green_lower	Green_upper	Blue_lower	Blue_upper
+Green	285	3000	250	700	144	300
+Blue	285	3000	300	800	0	144
+Yellow	0	180	0	250	0	90
+Red	0	285	400	700	90	200
